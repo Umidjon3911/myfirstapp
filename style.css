@@ -9,11 +9,9 @@
    height: 100vh;
    background: linear-gradient(45deg, #22046b,#e14e42);
    position: relative;
-
 }
 .container-fluid{
    width: 600px;
-   /* height: 280px; */
    position: absolute;
    left: 14%;
    top: 55%;
@@ -21,8 +19,8 @@
    overflow: hidden;
 }
 .slider{
-display: inline-flex;
-transition: .5s ease;
+   display: inline-flex;
+   transition: .5s ease;
 }
 .slider-col{
    width: 600px;
